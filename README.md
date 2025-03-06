@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I am a passionate programmer and teacher from Auroville who loves to experience this beautiful planet!</h3>
+<p align="center">I am a passionate programmer and teacher from Auroville who loves to experience this beautiful planet!</p>
 
 ###
 
